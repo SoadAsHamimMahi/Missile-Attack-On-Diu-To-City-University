@@ -1,0 +1,30 @@
+# Debug logs
+.cursor/
+*.log
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Build directories
+mingw32/
+build/
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
